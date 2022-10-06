@@ -7,7 +7,7 @@ After each step please check if the documentation is (still) correct. If not ple
 ## Get account on github
 
 - Sign up: https://github.com/signup?ref_cta=Sign+up
-- Recommended user name: <first name>-<last name>, e.g. hugo-boss
+- Recommended user name: ```<first name>-<last name>```, e.g. ```hugo-boss```
 
 ## Install git
 
